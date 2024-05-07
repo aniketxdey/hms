@@ -93,7 +93,7 @@ sc.pp.regress_out(adata, ['total_counts', 'pct_counts_mt'])
 #Scale each gene to unit variance. Clip values exceeding standard deviation 10.
 sc.pp.scale(adata, max_value=10)
 
-#Principal component analysis¶
+#Principal component analysis
 #Reduce the dimensionality of the data by running principal component analysis (PCA),
 # which reveals the main axes of variation and denoises the data.
 sc.tl.pca(adata, svd_solver='arpack')
