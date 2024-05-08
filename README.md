@@ -14,8 +14,4 @@ My research at the Dietlein Lab thus revolved around developing a series of bioi
 2) Developing a novel ML pipeline employing a random-forest algorithm to optimize predictive completion of ligand-receptor interactions at gene-expressions identified by algrotihms in (1) with up to 89.32% accuracy in therapeutic development simulations.
 
 3) Collaborating with clinicians to share findings & models as user-friendly tutorial resources and software that can be run in the hands of non-computational scientists.
-  
-## Directory Contents
 
-- models
-  - 
